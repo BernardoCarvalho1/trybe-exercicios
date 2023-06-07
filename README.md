@@ -1,2 +1,2 @@
 # Meu repositório de exercícios
-Testando algumas coisas
+Dando uma nova etapa na vida na trybe!!
